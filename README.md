@@ -1,6 +1,6 @@
 ## Projeto Modelo para Atividade Java X GitHub
 
-Sejam bem-vindos ao projeto.
+Bem vindo ao projeto!
 
 ## Enunciado
 
